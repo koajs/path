@@ -25,10 +25,10 @@
     "path-match": "^1.0.0"
   },
   "devDependencies": {
-    "koa": "0",
-    "supertest": "0",
-    "mocha": "1",
-    "should": "3"
+    "koa": "1.1.2",
+    "supertest": "1.1.0",
+    "mocha": "2.3.4",
+    "should": "8.0.2"
   },
   "scripts": {
     "test": "mocha --harmony-generators --reporter spec --require should"
